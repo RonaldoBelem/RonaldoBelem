@@ -1,3 +1,4 @@
+---
 <p align="center">
   <a href="https://www.linkedin.com/in/ronaldo-nunes-belem/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -30,7 +31,7 @@
 - ☁️ Tenho conhecimento em **Azure** e **AWS** para computação em nuvem e deploys automatizados.  
 - 🌐 Me interesso por **desenvolvimento web dinâmico** usando  
 
-
+---
 
 ### 🚀 Tecnologias e Ferramentas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
