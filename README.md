@@ -49,15 +49,15 @@
 
 ---
 
-<section style="height: 80px; text-align: center;">
+<section style=" text-align: center;">
   <h1>Onde Estudei?</h1>
   <a href="https://cursos.alura.com.br/emprega-one/profile/ronaldonunesbelem">
-    <img src="logo-alura.png" alt="Logo da Alura">
+    <img style="height: 80px;" src="logo-alura.png" alt="Logo da Alura">
   </a>
   <a href="https://www.dio.me/users/ronaldonunes8">
-    <img src="logo-dio.png" alt="Logo da DIO">
+    <img style="height: 80px;" src="logo-dio.png" alt="Logo da DIO">
   </a>
   <a href="#">
-    <img src="logo-proz.png" alt="Logo da Proz">
+    <img style="height: 80px;" src="logo-proz.png" alt="Logo da Proz">
   </a>
 </section>
