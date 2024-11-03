@@ -50,6 +50,21 @@
 
 ---
 
+<section align="center" style="height: 80px;">
+<br>
+  <h1>Onde Estudei ?</h1>
+<br>
+  <a href="https://cursos.alura.com.br/emprega-one/profile/ronaldonunesbelem">
+    <img src="logo alura.png" alt="Alura">
+  </a>
+  <a href="https://www.dio.me/users/ronaldonunes8">
+    <img src="logo dio.png" alt="dio">
+  </a>
+  <a href="">
+    <img src="logo proz.png" alt="proz">
+  </a>
+</section>
+
 
 
 
