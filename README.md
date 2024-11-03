@@ -51,12 +51,12 @@
 <section style="height: 80px; text-align: center;">
   <h1>Onde Estudei?</h1>
   <a href="https://cursos.alura.com.br/emprega-one/profile/ronaldonunesbelem">
-    <img src="logo-alura.png" alt="Logo da Alura">
+    <img src="logo alura.png" alt="Logo da Alura">
   </a>
   <a href="https://www.dio.me/users/ronaldonunes8">
-    <img src="logo-dio.png" alt="Logo da DIO">
+    <img src="logo dio.png" alt="Logo da DIO">
   </a>
   <a href="#">
-    <img src="logo-proz.png" alt="Logo da Proz">
+    <img src="logo proz.png" alt="Logo da Proz">
   </a>
 </section>
