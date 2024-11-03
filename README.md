@@ -11,8 +11,6 @@
   </a>
 </p>
 
-
-
 # Ronaldo Nunes Belém
 
 ---
@@ -29,7 +27,7 @@
 - 📦 Trabalho com **Docker** para containerização e deploys contínuos, utilizando plataformas como **Render**.  
 - 💾 Gerencio bancos de dados **MySQL** e **PostgreSQL** para aplicações robustas e escaláveis.  
 - ☁️ Tenho conhecimento em **Azure** e **AWS** para computação em nuvem e deploys automatizados.  
-- 🌐 Me interesso por **desenvolvimento web dinâmico** usando  
+- 🌐 Me interesso por **desenvolvimento web dinâmico**.
 
 ---
 
@@ -51,19 +49,14 @@
 ---
 
 <section style="height: 80px; text-align: center;">
-  <h1>Onde Estudei ?</h1>
+  <h1>Onde Estudei?</h1>
   <a href="https://cursos.alura.com.br/emprega-one/profile/ronaldonunesbelem">
-    <img src="logo alura.png" alt="Alura">
+    <img src="logo-alura.png" alt="Logo da Alura">
   </a>
   <a href="https://www.dio.me/users/ronaldonunes8">
-    <img src="logo dio.png" alt="dio">
+    <img src="logo-dio.png" alt="Logo da DIO">
   </a>
-  <a href="">
-    <img src="logo proz.png" alt="proz">
+  <a href="#">
+    <img src="logo-proz.png" alt="Logo da Proz">
   </a>
 </section>
-
-
-
-
-
