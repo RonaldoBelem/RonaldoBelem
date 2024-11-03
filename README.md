@@ -50,10 +50,10 @@
 
 ---
 
-<section align="center" style="height: 80px;">
-<br>
+<section style="height: 80px; text-align: center;">
+
   <h1>Onde Estudei ?</h1>
-<br>
+
   <a href="https://cursos.alura.com.br/emprega-one/profile/ronaldonunesbelem">
     <img src="logo alura.png" alt="Alura">
   </a>
