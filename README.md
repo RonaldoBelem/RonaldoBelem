@@ -49,7 +49,7 @@
 
 ---
 
-<section style=" text-align: center;">
+<section align="center">
   <h1>Onde Estudei?</h1>
   <a href="https://cursos.alura.com.br/emprega-one/profile/ronaldonunesbelem">
     <img style="height: 80px;" src="logo-alura.png" alt="Logo da Alura">
