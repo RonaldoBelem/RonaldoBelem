@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/ronaldo-nunes-belem/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5591988633253">
+  <a href="https://api.whatsapp.com/send?phone=5591987390552">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   <a href="mailto:ronaldonunes8@gmail.com">
