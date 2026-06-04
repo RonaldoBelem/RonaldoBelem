@@ -13,9 +13,7 @@
 
 # Ronaldo Nunes Belém
 Contato: (91) 98739-0552
----
-### 💻 Linguagens Mais Utilizadas
-![Linguagens de RonaldoBelem](https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoBelem&layout=compact&theme=dark)
+
 ---
 
 ### 💻 Sobre mim
