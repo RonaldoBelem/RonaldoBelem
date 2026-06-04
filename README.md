@@ -14,8 +14,7 @@
 # Ronaldo Nunes Belém
 Contato: (91) 98739-0552
 ---
-
-![RonaldoBelem - Estatísticas](https://github-readme-stats-one.vercel.app/api?username=RonaldoBelem&show_icons=true&theme=dark&hide=stars)
+![RonaldoBelem - Estatísticas](https://github-readme-stats.vercel.app/api?username=RonaldoBelem&show_icons=true&theme=dark&hide=stars)
 ---
 
 ### 💻 Sobre mim
